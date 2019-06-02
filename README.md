@@ -6,7 +6,7 @@ I will progressively comment and post every example I made for Construct 2 and 3
 
 
 
-##Construct 2:
+## Construct 2:
 
 | Thumbnail  |Name | Description  | 
 |---|---|---|
@@ -17,7 +17,7 @@ I will progressively comment and post every example I made for Construct 2 and 3
 
 [C3-1]: ./construct3/DURAGON.c3p
 
-##Construct 3:
+## Construct 3:
 
 | Thumbnail  | Name | Description  | 
 |---|---|---|
