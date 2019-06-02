@@ -1,4 +1,4 @@
-I will progressively comment and post every example I made for Construct 2 and 3 and have them available for download here.
+I will progressively comment and post every example I made for Construct 2 and 3 and make them available for download here.
 
 ***
 [C2-1]: ./construct2/2InstancesCollision.capx
