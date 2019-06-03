@@ -16,9 +16,13 @@ I will progressively comment and post every example I made for Construct 2 and 3
 ***
 
 [C3-1]: ./construct3/DURAGON.c3p
+[C3-2]: ./construct3/DialogueBubble.c3p
+[C3-3]: ./construct3/MultiLights.c3p
 
 ## Construct 3:
 
 | Thumbnail  | Name | Description  | 
 |---|---|---|
 | <img src="./thumbnails/DURAGON.png" alt="DURAGON" width="250"/> | [DURAGON][C3-1]  | A cool animated dragon made using linear interpolation and the sine behavior |
+| <img src="./thumbnails/DialogueBubble.png" alt="DialogueBubble" width="250"/> | [DialogueBubble][C3-2]  | Dialogue bubbles that get bigger as the text gets typed, and snaps to the window |
+| <img src="./thumbnails/MultiLights.png" alt="MultiLights" width="250"/> | [MultiLights][C3-3]  | Multiple lights pasted on canvases. Perf is not great because of shadowlight |
