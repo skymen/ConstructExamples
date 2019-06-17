@@ -27,4 +27,4 @@ I will progressively comment and post every example I made for Construct 2 and 3
 | <img src="./thumbnails/DURAGON.png" alt="DURAGON" width="250"/> | [DURAGON][C3-1]  | A cool animated dragon made using linear interpolation and the sine behavior |
 | <img src="./thumbnails/DialogueBubble.png" alt="DialogueBubble" width="250"/> | [DialogueBubble][C3-2]  | Dialogue bubbles that get bigger as the text gets typed, and snaps to the window |
 | <img src="./thumbnails/MultiLights.png" alt="MultiLights" width="250"/> | [MultiLights][C3-3]  | Multiple lights pasted on canvases. |
-| <img src="./thumbnails/SaveToBinaryFile.png" alt="SaveToBinaryFile" width="250"/> | [SaveToBinaryFile][C3-3]  | Simple example showing how to save data to a binary file. Said data can be accessed by other games as well. |
+| <img src="./thumbnails/SaveToBinaryFile.png" alt="SaveToBinaryFile" width="250"/> | [SaveToBinaryFile][C3-4]  | Simple example showing how to save data to a binary file. Said data can be accessed by other games as well. |
