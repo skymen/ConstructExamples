@@ -19,6 +19,9 @@ I will progressively comment and post every example I made for Construct 2 and 3
 [C3-2]: ./construct3/DialogueBubble.c3p
 [C3-3]: ./construct3/MultiLights.c3p
 [C3-4]: ./construct3/SaveToBinaryFile.c3p
+[C3-5]: ./construct3/AdvancedLighting.c3p
+[AdvLightTuto]: https://www.construct.net/en/tutorials/making-advanced-lighting-2232
+[eonian]: https://www.construct.net/en/users/519516/eonian
 
 ## Construct 3:
 
@@ -28,3 +31,4 @@ I will progressively comment and post every example I made for Construct 2 and 3
 | <img src="./thumbnails/DialogueBubble.png" alt="DialogueBubble" width="250"/> | [DialogueBubble][C3-2]  | Dialogue bubbles that get bigger as the text gets typed, and snaps to the window |
 | <img src="./thumbnails/MultiLights.png" alt="MultiLights" width="250"/> | [MultiLights][C3-3]  | Multiple lights pasted on canvases. |
 | <img src="./thumbnails/SaveToBinaryFile.png" alt="SaveToBinaryFile" width="250"/> | [SaveToBinaryFile][C3-4]  | Simple example showing how to save data to a binary file. Said data can be accessed by other games as well. |
+| <img src="./thumbnails/AdvancedLighting.png" alt="AdvancedLighting" width="250"/> | [AdvancedLighting][C3-5]  | Standalone file of [my advanced lighting tutorial][C3-5] made by user [eonian][eonian] |
